@@ -139,6 +139,26 @@ Some will argue that the following skills and topics shouldn't be optional and a
   - [ ] Define SLO (Service Level Objective)
   - 100% reliability is not a good goal! (not sustainable + not feasible. One example: maybe you can drive 100% reliability for the service you own, but most of the time not for its dependencies)
 
+  - [ ] Services Running Smoothly: Make sure our services are always accessible and in good working order for our users.
+
+  - [ ] Quickly Resolve Problems: When something goes wrong, find and fix it quickly with minimal inconvenience to our users.
+
+  - [ ] Automatization of Routine Tasks: Leverage technology to handle repetitive tasks so we can focus on more important work.
+
+  - [ ] Plan for Growth: Ensure that our systems are prepared to handle more users and more data without slowing down or becoming corrupted.
+
+  - [ ] Learn from Mistakes: After solving a problem, try to understand why it happened and how it can be avoided in the future.
+
+  - [ ] Keeping Our Systems Secure: Protect user data from unauthorized access or breaches.
+
+  - [ ] Coordinate with Teams: Support development teams and advise them to build better and more reliable services.
+
+  - [ ] Tooling and Best-Practices Development: Continuously develop better ways of doing our work, using the latest tools and best-practices.
+
+  - [ ] Be Prepared for Emergencies: Have a plan for major problems so we can get back to normal quickly with minimal impact.
+
+  - [ ] Share what we learn: Help the whole team become better by sharing our knowledge and experiences.
+
 ### SRE Lead
 
 - [ ] Is there an onboarding page for SREs joining the team?
